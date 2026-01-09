@@ -41,8 +41,8 @@ class WeatherService {
       // Process the data
       const processedData = processWeatherData(response.data);
 
-      // Cache the processed data
-      await cacheService.set(this.cacheKey, processedData);
+      // Cache the processed data with 10 seconds expiration
+      await cacheService.set(this.cacheKey, processedData, 10);
 
       return processedData;
     } catch (error) {
