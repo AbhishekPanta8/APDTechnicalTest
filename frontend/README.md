@@ -19,14 +19,6 @@ React-based frontend application that displays weather forecast data in a clean,
 
 - **formatters**: Temperature and date formatting functions
 
-## Key Features
-
-- Responsive design
-- Loading states
-- Error handling with retry mechanism
-- Clean, minimal UI
-- Real-time data fetching
-
 ## Running
 
 Development mode:

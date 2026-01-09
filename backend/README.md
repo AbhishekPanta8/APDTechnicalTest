@@ -4,18 +4,6 @@
 
 Express.js backend service that fetches weather data from external API, processes it, and provides RESTful endpoints with Redis caching.
 
-## Directory Structure
-
-```
-src/
-├── config/          # Configuration files
-├── controllers/     # Request handlers
-├── middlewares/     # Express middlewares
-├── routes/          # API routes
-├── services/        # Business logic
-└── utils/           # Helper functions
-```
-
 ## Key Features
 
 - RESTful API architecture

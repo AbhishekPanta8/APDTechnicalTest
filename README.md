@@ -23,25 +23,6 @@ The application follows clean architecture principles with clear separation of c
 - **Services**: API communication layer
 - **Utils**: Formatting and helper functions
 
-## Features
-
-1. **Weather Data Display**
-   - First 7 days forecast showing:
-     - Day of the week (derived from local time)
-     - Day temperature
-   
-2. **Temperature Analysis**
-   - Average night temperature across first 10 days
-
-3. **Redis Caching**
-   - Weather data cached for 5 minutes
-   - Reduces API calls and improves performance
-
-4. **Error Handling**
-   - Comprehensive validation of incoming data
-   - Graceful error messages
-   - Prevents crashes on bad or missing data
-
 ## Prerequisites
 
 - Node.js (v16 or higher)
@@ -112,45 +93,10 @@ Frontend will run on `http://localhost:3000`
 
 ## Technology Stack
 
-- **Frontend**: React 18, Axios
+- **Frontend**: React, Axios
 - **Backend**: Node.js, Express.js
 - **Caching**: Redis
 - **API Communication**: Axios
-
-## Design Principles
-
-- **SOLID Principles**: Single responsibility, dependency injection
-- **Clean Architecture**: Separation of concerns, layered architecture
-- **Error Handling**: Comprehensive validation and error boundaries
-- **Scalability**: Modular structure for easy extension
-
-## Project Structure
-
-```
-APDTechnicalTest/
-├── backend/
-│   ├── src/
-│   │   ├── config/
-│   │   ├── controllers/
-│   │   ├── middlewares/
-│   │   ├── routes/
-│   │   ├── services/
-│   │   ├── utils/
-│   │   └── server.js
-│   ├── package.json
-│   └── .gitignore
-├── frontend/
-│   ├── public/
-│   ├── src/
-│   │   ├── components/
-│   │   ├── services/
-│   │   ├── utils/
-│   │   ├── App.js
-│   │   └── index.js
-│   ├── package.json
-│   └── .gitignore
-└── README.md
-```
 
 ## Development Notes
 
