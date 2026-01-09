@@ -1,0 +1,1039 @@
+{
+  "longterm": [
+    {
+      "time": {
+        "local": "2026-01-09T06:00",
+        "utc": "2026-01-09T11:00"
+      },
+      "rain": {
+        "value": 3.4
+      },
+      "snow": {
+        "value": 0
+      },
+      "hoursOfSun": 1,
+      "day": {
+        "weatherCode": {
+          "value": "R-"
+        },
+        "cloudCover": 90,
+        "potentialForThunder": null,
+        "temperature": {
+          "value": 9,
+          "reliability": null
+        },
+        "dewPoint": null,
+        "feelsLike": 5,
+        "wind": {
+          "direction": "S",
+          "speed": 52,
+          "gust": 75,
+          "reliability": null
+        },
+        "pop": 100,
+        "pressure": null,
+        "relativeHumidity": 81,
+        "rain": {
+          "value": 3.4
+        },
+        "snow": {
+          "value": 0
+        }
+      },
+      "night": {
+        "weatherCode": {
+          "value": "BN"
+        },
+        "cloudCover": null,
+        "potentialForThunder": null,
+        "temperature": {
+          "value": -4,
+          "reliability": null
+        },
+        "dewPoint": null,
+        "feelsLike": -8,
+        "wind": {
+          "direction": "NW",
+          "speed": 47,
+          "gust": 69,
+          "reliability": null
+        },
+        "pop": 30,
+        "pressure": null,
+        "relativeHumidity": 93,
+        "rain": {
+          "value": 0
+        },
+        "snow": {
+          "value": 0
+        }
+      }
+    },
+    {
+      "time": {
+        "local": "2026-01-10T06:00",
+        "utc": "2026-01-10T11:00"
+      },
+      "rain": {
+        "value": 0
+      },
+      "snow": {
+        "value": 5.8
+      },
+      "hoursOfSun": 2,
+      "day": {
+        "weatherCode": {
+          "value": "W"
+        },
+        "cloudCover": 80,
+        "potentialForThunder": null,
+        "temperature": {
+          "value": 0,
+          "reliability": null
+        },
+        "dewPoint": null,
+        "feelsLike": -6,
+        "wind": {
+          "direction": "SE",
+          "speed": 24,
+          "gust": 36,
+          "reliability": null
+        },
+        "pop": 60,
+        "pressure": null,
+        "relativeHumidity": 80,
+        "rain": {
+          "value": 0
+        },
+        "snow": {
+          "value": 2.1
+        }
+      },
+      "night": {
+        "weatherCode": {
+          "value": "YN"
+        },
+        "cloudCover": null,
+        "potentialForThunder": null,
+        "temperature": {
+          "value": -4,
+          "reliability": null
+        },
+        "dewPoint": null,
+        "feelsLike": -12,
+        "wind": {
+          "direction": "SW",
+          "speed": 39,
+          "gust": 59,
+          "reliability": null
+        },
+        "pop": 90,
+        "pressure": null,
+        "relativeHumidity": 100,
+        "rain": {
+          "value": 0
+        },
+        "snow": {
+          "value": 3.7
+        }
+      }
+    },
+    {
+      "time": {
+        "local": "2026-01-11T06:00",
+        "utc": "2026-01-11T11:00"
+      },
+      "rain": {
+        "value": 0
+      },
+      "snow": {
+        "value": 1.7
+      },
+      "hoursOfSun": 1,
+      "day": {
+        "weatherCode": {
+          "value": "W"
+        },
+        "cloudCover": 80,
+        "potentialForThunder": null,
+        "temperature": {
+          "value": -4,
+          "reliability": null
+        },
+        "dewPoint": null,
+        "feelsLike": -12,
+        "wind": {
+          "direction": "NW",
+          "speed": 35,
+          "gust": 53,
+          "reliability": null
+        },
+        "pop": 60,
+        "pressure": null,
+        "relativeHumidity": 73,
+        "rain": {
+          "value": 0
+        },
+        "snow": {
+          "value": 1.6
+        }
+      },
+      "night": {
+        "weatherCode": {
+          "value": "P+N"
+        },
+        "cloudCover": null,
+        "potentialForThunder": null,
+        "temperature": {
+          "value": -8,
+          "reliability": null
+        },
+        "dewPoint": null,
+        "feelsLike": -17,
+        "wind": {
+          "direction": "NW",
+          "speed": 31,
+          "gust": 47,
+          "reliability": null
+        },
+        "pop": 40,
+        "pressure": null,
+        "relativeHumidity": 93,
+        "rain": {
+          "value": 0
+        },
+        "snow": {
+          "value": 0.1
+        }
+      }
+    },
+    {
+      "time": {
+        "local": "2026-01-12T06:00",
+        "utc": "2026-01-12T11:00"
+      },
+      "rain": {
+        "value": 0
+      },
+      "snow": {
+        "value": 0
+      },
+      "hoursOfSun": 1,
+      "day": {
+        "weatherCode": {
+          "value": "O-"
+        },
+        "cloudCover": 90,
+        "potentialForThunder": null,
+        "temperature": {
+          "value": -3,
+          "reliability": null
+        },
+        "dewPoint": null,
+        "feelsLike": -9,
+        "wind": {
+          "direction": "SW",
+          "speed": 30,
+          "gust": 45,
+          "reliability": null
+        },
+        "pop": 40,
+        "pressure": null,
+        "relativeHumidity": 80,
+        "rain": {
+          "value": 0
+        },
+        "snow": {
+          "value": 0
+        }
+      },
+      "night": {
+        "weatherCode": {
+          "value": "B-N"
+        },
+        "cloudCover": null,
+        "potentialForThunder": null,
+        "temperature": {
+          "value": -3,
+          "reliability": null
+        },
+        "dewPoint": null,
+        "feelsLike": -9,
+        "wind": {
+          "direction": "W",
+          "speed": 23,
+          "gust": 35,
+          "reliability": null
+        },
+        "pop": 40,
+        "pressure": null,
+        "relativeHumidity": 93,
+        "rain": {
+          "value": 0
+        },
+        "snow": {
+          "value": 0
+        }
+      }
+    },
+    {
+      "time": {
+        "local": "2026-01-13T06:00",
+        "utc": "2026-01-13T11:00"
+      },
+      "rain": {
+        "value": 0
+      },
+      "snow": {
+        "value": 1.9
+      },
+      "hoursOfSun": 1,
+      "day": {
+        "weatherCode": {
+          "value": "V-"
+        },
+        "cloudCover": 90,
+        "potentialForThunder": null,
+        "temperature": {
+          "value": 0,
+          "reliability": null
+        },
+        "dewPoint": null,
+        "feelsLike": -6,
+        "wind": {
+          "direction": "SW",
+          "speed": 29,
+          "gust": 44,
+          "reliability": null
+        },
+        "pop": 40,
+        "pressure": null,
+        "relativeHumidity": 80,
+        "rain": {
+          "value": 0
+        },
+        "snow": {
+          "value": 0.2
+        }
+      },
+      "night": {
+        "weatherCode": {
+          "value": "WN"
+        },
+        "cloudCover": null,
+        "potentialForThunder": null,
+        "temperature": {
+          "value": 0,
+          "reliability": null
+        },
+        "dewPoint": null,
+        "feelsLike": -7,
+        "wind": {
+          "direction": "SW",
+          "speed": 34,
+          "gust": 51,
+          "reliability": null
+        },
+        "pop": 70,
+        "pressure": null,
+        "relativeHumidity": 100,
+        "rain": {
+          "value": 0
+        },
+        "snow": {
+          "value": 1.7
+        }
+      }
+    },
+    {
+      "time": {
+        "local": "2026-01-14T06:00",
+        "utc": "2026-01-14T11:00"
+      },
+      "rain": {
+        "value": 0
+      },
+      "snow": {
+        "value": 1.3
+      },
+      "hoursOfSun": 1,
+      "day": {
+        "weatherCode": {
+          "value": "V-"
+        },
+        "cloudCover": 90,
+        "potentialForThunder": null,
+        "temperature": {
+          "value": 0,
+          "reliability": null
+        },
+        "dewPoint": null,
+        "feelsLike": -5,
+        "wind": {
+          "direction": "SW",
+          "speed": 20,
+          "gust": 30,
+          "reliability": null
+        },
+        "pop": 60,
+        "pressure": null,
+        "relativeHumidity": 86,
+        "rain": {
+          "value": 0
+        },
+        "snow": {
+          "value": 1.3
+        }
+      },
+      "night": {
+        "weatherCode": {
+          "value": "O-N"
+        },
+        "cloudCover": null,
+        "potentialForThunder": null,
+        "temperature": {
+          "value": -14,
+          "reliability": null
+        },
+        "dewPoint": null,
+        "feelsLike": -23,
+        "wind": {
+          "direction": "N",
+          "speed": 25,
+          "gust": 38,
+          "reliability": null
+        },
+        "pop": 40,
+        "pressure": null,
+        "relativeHumidity": 93,
+        "rain": {
+          "value": 0
+        },
+        "snow": {
+          "value": 0
+        }
+      }
+    },
+    {
+      "time": {
+        "local": "2026-01-15T06:00",
+        "utc": "2026-01-15T11:00"
+      },
+      "rain": {
+        "value": 0
+      },
+      "snow": {
+        "value": 0
+      },
+      "hoursOfSun": 2,
+      "day": {
+        "weatherCode": {
+          "value": "B+"
+        },
+        "cloudCover": 80,
+        "potentialForThunder": null,
+        "temperature": {
+          "value": -12,
+          "reliability": null
+        },
+        "dewPoint": null,
+        "feelsLike": -19,
+        "wind": {
+          "direction": "N",
+          "speed": 22,
+          "gust": 33,
+          "reliability": null
+        },
+        "pop": 40,
+        "pressure": null,
+        "relativeHumidity": 72,
+        "rain": {
+          "value": 0
+        },
+        "snow": {
+          "value": 0
+        }
+      },
+      "night": {
+        "weatherCode": {
+          "value": "BN"
+        },
+        "cloudCover": null,
+        "potentialForThunder": null,
+        "temperature": {
+          "value": -16,
+          "reliability": null
+        },
+        "dewPoint": null,
+        "feelsLike": -22,
+        "wind": {
+          "direction": "N",
+          "speed": 14,
+          "gust": 21,
+          "reliability": null
+        },
+        "pop": 30,
+        "pressure": null,
+        "relativeHumidity": 85,
+        "rain": {
+          "value": 0
+        },
+        "snow": {
+          "value": 0
+        }
+      }
+    },
+    {
+      "time": {
+        "local": "2026-01-16T06:00",
+        "utc": "2026-01-16T11:00"
+      },
+      "rain": {
+        "value": 0
+      },
+      "snow": {
+        "value": 0
+      },
+      "hoursOfSun": 5,
+      "day": {
+        "weatherCode": {
+          "value": "B"
+        },
+        "cloudCover": 50,
+        "potentialForThunder": null,
+        "temperature": {
+          "value": -9,
+          "reliability": null
+        },
+        "dewPoint": null,
+        "feelsLike": -11,
+        "wind": {
+          "direction": "N",
+          "speed": 6,
+          "gust": 9,
+          "reliability": null
+        },
+        "pop": 20,
+        "pressure": null,
+        "relativeHumidity": 61,
+        "rain": {
+          "value": 0
+        },
+        "snow": {
+          "value": 0
+        }
+      },
+      "night": {
+        "weatherCode": {
+          "value": "BN"
+        },
+        "cloudCover": null,
+        "potentialForThunder": null,
+        "temperature": {
+          "value": -12,
+          "reliability": null
+        },
+        "dewPoint": null,
+        "feelsLike": -16,
+        "wind": {
+          "direction": "S",
+          "speed": 9,
+          "gust": 14,
+          "reliability": null
+        },
+        "pop": 30,
+        "pressure": null,
+        "relativeHumidity": 92,
+        "rain": {
+          "value": 0
+        },
+        "snow": {
+          "value": 0
+        }
+      }
+    },
+    {
+      "time": {
+        "local": "2026-01-17T06:00",
+        "utc": "2026-01-17T11:00"
+      },
+      "rain": {
+        "value": 0
+      },
+      "snow": {
+        "value": 0.3
+      },
+      "hoursOfSun": 3,
+      "day": {
+        "weatherCode": {
+          "value": "B"
+        },
+        "cloudCover": 70,
+        "potentialForThunder": null,
+        "temperature": {
+          "value": -6,
+          "reliability": null
+        },
+        "dewPoint": null,
+        "feelsLike": -11,
+        "wind": {
+          "direction": "S",
+          "speed": 12,
+          "gust": 18,
+          "reliability": null
+        },
+        "pop": 30,
+        "pressure": null,
+        "relativeHumidity": 79,
+        "rain": {
+          "value": 0
+        },
+        "snow": {
+          "value": 0
+        }
+      },
+      "night": {
+        "weatherCode": {
+          "value": "V-N"
+        },
+        "cloudCover": null,
+        "potentialForThunder": null,
+        "temperature": {
+          "value": -8,
+          "reliability": null
+        },
+        "dewPoint": null,
+        "feelsLike": -15,
+        "wind": {
+          "direction": "SE",
+          "speed": 16,
+          "gust": 24,
+          "reliability": null
+        },
+        "pop": 40,
+        "pressure": null,
+        "relativeHumidity": 85,
+        "rain": {
+          "value": 0
+        },
+        "snow": {
+          "value": 0.3
+        }
+      }
+    },
+    {
+      "time": {
+        "local": "2026-01-18T06:00",
+        "utc": "2026-01-18T11:00"
+      },
+      "rain": {
+        "value": 0
+      },
+      "snow": {
+        "value": 0
+      },
+      "hoursOfSun": 3,
+      "day": {
+        "weatherCode": {
+          "value": "B"
+        },
+        "cloudCover": 70,
+        "potentialForThunder": null,
+        "temperature": {
+          "value": -7,
+          "reliability": null
+        },
+        "dewPoint": null,
+        "feelsLike": -14,
+        "wind": {
+          "direction": "SW",
+          "speed": 22,
+          "gust": 33,
+          "reliability": null
+        },
+        "pop": 30,
+        "pressure": null,
+        "relativeHumidity": 73,
+        "rain": {
+          "value": 0
+        },
+        "snow": {
+          "value": 0
+        }
+      },
+      "night": {
+        "weatherCode": {
+          "value": "B-N"
+        },
+        "cloudCover": null,
+        "potentialForThunder": null,
+        "temperature": {
+          "value": -11,
+          "reliability": null
+        },
+        "dewPoint": null,
+        "feelsLike": -15,
+        "wind": {
+          "direction": "SW",
+          "speed": 15,
+          "gust": 23,
+          "reliability": null
+        },
+        "pop": 40,
+        "pressure": null,
+        "relativeHumidity": 79,
+        "rain": {
+          "value": 0
+        },
+        "snow": {
+          "value": 0
+        }
+      }
+    },
+    {
+      "time": {
+        "local": "2026-01-19T06:00",
+        "utc": "2026-01-19T11:00"
+      },
+      "rain": {
+        "value": 0
+      },
+      "snow": {
+        "value": 0
+      },
+      "hoursOfSun": 6,
+      "day": {
+        "weatherCode": {
+          "value": "S+"
+        },
+        "cloudCover": 30,
+        "potentialForThunder": null,
+        "temperature": {
+          "value": -11,
+          "reliability": null
+        },
+        "dewPoint": null,
+        "feelsLike": -15,
+        "wind": {
+          "direction": "SW",
+          "speed": 10,
+          "gust": 15,
+          "reliability": null
+        },
+        "pop": 20,
+        "pressure": null,
+        "relativeHumidity": 78,
+        "rain": {
+          "value": 0
+        },
+        "snow": {
+          "value": 0
+        }
+      },
+      "night": {
+        "weatherCode": {
+          "value": "C-N"
+        },
+        "cloudCover": null,
+        "potentialForThunder": null,
+        "temperature": {
+          "value": -15,
+          "reliability": null
+        },
+        "dewPoint": null,
+        "feelsLike": -20,
+        "wind": {
+          "direction": "S",
+          "speed": 7,
+          "gust": 11,
+          "reliability": null
+        },
+        "pop": 10,
+        "pressure": null,
+        "relativeHumidity": 85,
+        "rain": {
+          "value": 0
+        },
+        "snow": {
+          "value": 0
+        }
+      }
+    },
+    {
+      "time": {
+        "local": "2026-01-20T06:00",
+        "utc": "2026-01-20T11:00"
+      },
+      "rain": {
+        "value": 0
+      },
+      "snow": {
+        "value": 0
+      },
+      "hoursOfSun": 9,
+      "day": {
+        "weatherCode": {
+          "value": "C"
+        },
+        "cloudCover": 0,
+        "potentialForThunder": null,
+        "temperature": {
+          "value": -12,
+          "reliability": null
+        },
+        "dewPoint": null,
+        "feelsLike": -17,
+        "wind": {
+          "direction": "S",
+          "speed": 13,
+          "gust": 20,
+          "reliability": null
+        },
+        "pop": 10,
+        "pressure": null,
+        "relativeHumidity": 66,
+        "rain": {
+          "value": 0
+        },
+        "snow": {
+          "value": 0
+        }
+      },
+      "night": {
+        "weatherCode": {
+          "value": "C-N"
+        },
+        "cloudCover": null,
+        "potentialForThunder": null,
+        "temperature": {
+          "value": -15,
+          "reliability": null
+        },
+        "dewPoint": null,
+        "feelsLike": -22,
+        "wind": {
+          "direction": "SW",
+          "speed": 14,
+          "gust": 21,
+          "reliability": null
+        },
+        "pop": 10,
+        "pressure": null,
+        "relativeHumidity": 85,
+        "rain": {
+          "value": 0
+        },
+        "snow": {
+          "value": 0
+        }
+      }
+    },
+    {
+      "time": {
+        "local": "2026-01-21T06:00",
+        "utc": "2026-01-21T11:00"
+      },
+      "rain": {
+        "value": 0
+      },
+      "snow": {
+        "value": 0
+      },
+      "hoursOfSun": 9,
+      "day": {
+        "weatherCode": {
+          "value": "C"
+        },
+        "cloudCover": 0,
+        "potentialForThunder": null,
+        "temperature": {
+          "value": -12,
+          "reliability": null
+        },
+        "dewPoint": null,
+        "feelsLike": -18,
+        "wind": {
+          "direction": "SW",
+          "speed": 17,
+          "gust": 26,
+          "reliability": null
+        },
+        "pop": 10,
+        "pressure": null,
+        "relativeHumidity": 72,
+        "rain": {
+          "value": 0
+        },
+        "snow": {
+          "value": 0
+        }
+      },
+      "night": {
+        "weatherCode": {
+          "value": "C-N"
+        },
+        "cloudCover": null,
+        "potentialForThunder": null,
+        "temperature": {
+          "value": -14,
+          "reliability": null
+        },
+        "dewPoint": null,
+        "feelsLike": -19,
+        "wind": {
+          "direction": "SW",
+          "speed": 10,
+          "gust": 15,
+          "reliability": null
+        },
+        "pop": 10,
+        "pressure": null,
+        "relativeHumidity": 85,
+        "rain": {
+          "value": 0
+        },
+        "snow": {
+          "value": 0
+        }
+      }
+    },
+    {
+      "time": {
+        "local": "2026-01-22T06:00",
+        "utc": "2026-01-22T11:00"
+      },
+      "rain": {
+        "value": 0
+      },
+      "snow": {
+        "value": 2.8
+      },
+      "hoursOfSun": 8,
+      "day": {
+        "weatherCode": {
+          "value": "P+"
+        },
+        "cloudCover": 20,
+        "potentialForThunder": null,
+        "temperature": {
+          "value": -10,
+          "reliability": null
+        },
+        "dewPoint": null,
+        "feelsLike": -15,
+        "wind": {
+          "direction": "NE",
+          "speed": 15,
+          "gust": 23,
+          "reliability": null
+        },
+        "pop": 40,
+        "pressure": null,
+        "relativeHumidity": 72,
+        "rain": {
+          "value": 0
+        },
+        "snow": {
+          "value": 0.5
+        }
+      },
+      "night": {
+        "weatherCode": {
+          "value": "WN"
+        },
+        "cloudCover": null,
+        "potentialForThunder": null,
+        "temperature": {
+          "value": -13,
+          "reliability": null
+        },
+        "dewPoint": null,
+        "feelsLike": -23,
+        "wind": {
+          "direction": "E",
+          "speed": 25,
+          "gust": 38,
+          "reliability": null
+        },
+        "pop": 70,
+        "pressure": null,
+        "relativeHumidity": 92,
+        "rain": {
+          "value": 0
+        },
+        "snow": {
+          "value": 2.3
+        }
+      }
+    },
+    {
+      "time": {
+        "local": "2026-01-23T06:00",
+        "utc": "2026-01-23T11:00"
+      },
+      "rain": {
+        "value": 0
+      },
+      "snow": {
+        "value": 2.5
+      },
+      "hoursOfSun": 6,
+      "day": {
+        "weatherCode": {
+          "value": "P+"
+        },
+        "cloudCover": 40,
+        "potentialForThunder": null,
+        "temperature": {
+          "value": -10,
+          "reliability": null
+        },
+        "dewPoint": null,
+        "feelsLike": -19,
+        "wind": {
+          "direction": "N",
+          "speed": 27,
+          "gust": 41,
+          "reliability": null
+        },
+        "pop": 60,
+        "pressure": null,
+        "relativeHumidity": 72,
+        "rain": {
+          "value": 0
+        },
+        "snow": {
+          "value": 0.8
+        }
+      },
+      "night": {
+        "weatherCode": {
+          "value": "P+N"
+        },
+        "cloudCover": null,
+        "potentialForThunder": null,
+        "temperature": {
+          "value": -13,
+          "reliability": null
+        },
+        "dewPoint": null,
+        "feelsLike": -22,
+        "wind": {
+          "direction": "NW",
+          "speed": 25,
+          "gust": 38,
+          "reliability": null
+        },
+        "pop": 60,
+        "pressure": null,
+        "relativeHumidity": 92,
+        "rain": {
+          "value": 0
+        },
+        "snow": {
+          "value": 1.7
+        }
+      }
+    }
+  ]
+}
