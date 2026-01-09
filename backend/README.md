@@ -24,12 +24,6 @@ CACHE_TTL=300
 
 ## Running
 
-Development mode with auto-reload:
-```bash
-npm run dev
-```
-
-Production mode:
 ```bash
 npm start
 ```
