@@ -1,0 +1,48 @@
+# Weather Forecast Backend
+
+## Overview
+
+Express.js backend service that fetches weather data from external API, processes it, and provides RESTful endpoints with Redis caching.
+
+## Directory Structure
+
+```
+src/
+├── config/          # Configuration files
+├── controllers/     # Request handlers
+├── middlewares/     # Express middlewares
+├── routes/          # API routes
+├── services/        # Business logic
+└── utils/           # Helper functions
+```
+
+## Key Features
+
+- RESTful API architecture
+- Redis caching with configurable TTL
+- Comprehensive error handling
+- Data validation and sanitization
+- Clean separation of concerns
+
+## Environment Variables
+
+```
+PORT=5000
+REDIS_HOST=localhost
+REDIS_PORT=6379
+WEATHER_API_URL=https://wxdata.apdtest.net/api/getweather
+CACHE_TTL=300
+```
+
+## Running
+
+Development mode with auto-reload:
+```bash
+npm run dev
+```
+
+Production mode:
+```bash
+npm start
+```
+
