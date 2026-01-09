@@ -83,7 +83,7 @@ Frontend will run on `http://localhost:3000`
 
 ## Development Notes
 
-- Data is cached in Redis for 5 minutes to optimize performance
+- Data is cached in Redis to optimize performance
 - All weather data is validated before processing
 - The application handles network failures gracefully
 - Clean commit history follows conventional commit standards
