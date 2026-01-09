@@ -13,7 +13,7 @@ function App() {
         <WeatherDashboard />
       </main>
       <footer className="app-footer">
-        <p>Data cached for 5 minutes</p>
+        <p>Data cached for 10 seconds</p>
       </footer>
     </div>
   );
