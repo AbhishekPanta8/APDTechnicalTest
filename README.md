@@ -4,24 +4,7 @@
 
 ## Project Overview
 
-A MERN stack application that consumes weather forecast data from an external API, processes it, and displays specific weather information with Redis caching for performance optimization.
-
-## Architecture
-
-The application follows clean architecture principles with clear separation of concerns:
-
-### Backend Structure
-- **Config Layer**: Application and Redis configuration
-- **Services Layer**: Business logic for weather data processing and caching
-- **Controllers Layer**: Request handling and response formatting
-- **Routes Layer**: API endpoint definitions
-- **Middleware Layer**: Error handling and request processing
-- **Utils Layer**: Validation and data processing utilities
-
-### Frontend Structure
-- **Components**: Reusable React components for UI
-- **Services**: API communication layer
-- **Utils**: Formatting and helper functions
+application that consumes weather forecast data from an external API, processes it, and displays specific weather information with Redis caching for performance optimization.
 
 ## Prerequisites
 
